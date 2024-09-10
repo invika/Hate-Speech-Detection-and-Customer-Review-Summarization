@@ -1,2 +1,2 @@
-# Hate-Speech-Detection-and-Customer-Review-Summarization
+# Hate Speech Detection and Customer Review Summarization
 Detect Multilingual Hate Speech: Building a model to both classify current adaptation and remove any form of abusive language in the received customer reviews from multiple languages. Provide brief extracts of non-controversial feedbacks to businesses whilst including specifics to help them act on the feedbacks.In other words, by making the content free from toxic content and also giving out good summaries of the feedbacks given then the products and services offered by these firms can be enhanced.
